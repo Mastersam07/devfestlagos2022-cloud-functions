@@ -24,6 +24,7 @@ exports.postsessions = async (req, res) => {
                             scheduledDuration: doc["Scheduled Duration"],
                             speakerImage: speaker["Profile Picture"],
                             tagLine: speaker["TagLine"],
+                            order: data.indexOf(doc) + 1,
                         });
                 } else {
                     console.log("Sope Otilor");
