@@ -16,6 +16,7 @@ exports.postspeakers = async (req, res) => {
                 github: doc["GitHub Handle"],
                 twitter: doc["Twitter"],
                 linkedIn: doc["LinkedIn"],
+                order: data.indexOf(doc) + 1,
             });
 
         });
