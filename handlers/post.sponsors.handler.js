@@ -12,7 +12,8 @@ exports.postsponsor = async (req, res) => {
                 name: doc["Company Name"],
                 twitterHandle: doc["Organisation twitter handle?"],
                 website: doc["Website"],
-                order: data.indexOf(doc) + 1
+                order: data.indexOf(doc) + 1,
+                sponsorshipType: doc["What Sponsorship package did you select?"] || "",
             });
 
         });
