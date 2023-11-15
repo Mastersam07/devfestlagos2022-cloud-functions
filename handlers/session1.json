@@ -1,0 +1,58 @@
+[
+    {
+        "Duration(minutes)": "40m",
+        "Time": "12:55 pm - 1:35 pm",
+        "Schedule": "Session 1",
+        "Speaker/Facilitator": "",
+        "Slides": "",
+        "Bio": ""
+      },
+    {
+        "Duration(minutes)": "",
+        "Time": "ROOM 1",
+        "Schedule": "Make time count with Wear OS",
+        "Speaker/Facilitator": "Moyin Adeyemi",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 2",
+        "Schedule": "Building Confident Systems: Distributed , Resilient and Non-Blocking Systems.",
+        "Speaker/Facilitator": "Kelechi Onyekwere",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 3",
+        "Schedule": "Builing Decentralized Applications on Polygon",
+        "Speaker/Facilitator": "Shodipo Ayomide",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 4",
+        "Schedule": "Mental Health",
+        "Speaker/Facilitator": "Nguvu Health",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 5",
+        "Schedule": "Emerging Tech",
+        "Speaker/Facilitator": "",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 6",
+        "Schedule": "Legal for Tech Talents: Protecting your Intellectual Property Rights like a Pro",
+        "Speaker/Facilitator": "Karen Chukwu",
+        "Slides": "https://docs.google.com/presentation/d/1wERNFAZ1ROZXfRk0ds1qTqI2EoQQubN53BIToFE7dzM/edit#slide=id.g125514d5365_0_10",
+        "Bio": ""
+      }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "Duration(minutes)": "",
+        "Time": "ROOM 1",
+        "Schedule": "Make time count with Wear OS",
+        "Speaker/Facilitator": "Moyin Adeyemi",
+        "Role/Company": "Google Developer Expert, Android",
+        "Slides": "https://docs.google.com/presentation/d/1xkDA2Si1MckUrTLMXC2L6EnVpKo59X0zWpBBYZT1CwE/edit",
+        "Bio": "https://app.sli.do/event/dHAjXTTNmpgeoVhJo3TSrh"
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 2",
+        "Schedule": "Builing Decentralized Applications on Polygon",
+        "Speaker/Facilitator": "Shodipo Ayomide",
+        "Role/Company": "Developer Advocate, Polygon",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 3",
+        "Schedule": "Mental Wellness in an Uncertain World",
+        "Speaker/Facilitator": "Olusola Ogunbiyi",
+        "Role/Company": "Clinical psychologist/Therapist Onboarding lead, Nguvu Health",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 4",
+        "Schedule": "Legal for Tech Talents: Protecting your Intellectual Property Rights like a Pro",
+        "Speaker/Facilitator": "Karen Chukwu",
+        "Role/Company": "Founder/Managing Partner, Katwig & Dale",
+        "Slides": "https://docs.google.com/presentation/d/1wERNFAZ1ROZXfRk0ds1qTqI2EoQQubN53BIToFE7dzM/edit#slide=id.g125514d5365_0_10",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 5",
+        "Schedule": "Building Confident Systems: Distributed , Resilient and Non-Blocking Systems.",
+        "Speaker/Facilitator": "Kelechi Onyekwere",
+        "Role/Company": "Senior Software Engineer, AppZone",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 6",
+        "Schedule": "Deploy and scale your containerized app on Google Cloud.",
+        "Speaker/Facilitator": "James Mwai",
+        "Role/Company": "Co-Founder and CTO, Sky.Garden",
+        "Slides": "",
+        "Bio": ""
+      }
+]

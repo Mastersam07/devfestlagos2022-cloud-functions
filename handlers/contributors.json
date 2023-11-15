@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Samuel Abada",
+        "image": "https://sessionize.com/image/74de-400o400o2-a2tj2395rscTUSvdTJey1c.jpg",
+        "tagline": "Mobile Devloper, DevFest Mobile",
+        "portfolio": "https://github.com/mastersam07",
+        "linkedIn": "https://www.linkedin.com/in/abada-samuel/",
+        "email": "abadasamuelosp@gmail.com",
+        "category": "Mobile"
+    },
+    {
+        "name": "Chinaza Ichieke",
+        "image": "https://firebasestorage.googleapis.com/v0/b/devfestlagos-2022.appspot.com/o/photo_2022-11-23_10-17-19.jpg?alt=media&token=d9210fb1-dacb-4599-9f13-cb9d9f961b00",
+        "tagline": "Designer, DevFest Mobile",
+        "portfolio": "https://bit.ly/I-Am-Chinaza",
+        "linkedIn": "https://www.linkedin.com/in/chinaza-i-329947a5/",
+        "email": "ichekechinaza77@gmail.com",
+        "category": "Design"
+    },
+    {
+        "name": "Oluwatobi Taiwo ",
+        "image": "https://firebasestorage.googleapis.com/v0/b/devfestlagos-2022.appspot.com/o/tobi.JPG?alt=media&token=37b55a8d-bbd8-4781-9330-bbf1610fc510",
+        "tagline": "Frontend Developer, DevFest Web",
+        "portfolio": "https://github.com/Tobipeters",
+        "linkedIn": "https://www.linkedin.com/in/otp/",
+        "email": "Oluwatobilobapeterschem@gmail.com",
+        "category": "Frontend"
+    },
+    {
+        "name": "Sebastine Odeh",
+        "image": "https://firebasestorage.googleapis.com/v0/b/devfestlagos-2022.appspot.com/o/seb.jpg?alt=media&token=598ee5b7-b49d-4a0a-a7e7-900b6fc0e73d",
+        "tagline": "Mobile Developer, DevFest Mobile",
+        "portfolio": "https://github.com/CoderNamedHendrick",
+        "linkedIn": "https://www.linkedin.com/in/sebastine-odeh-1081a318b/",
+        "email": "sebastinesoacatp@gmail.com",
+        "category": "Mobile"
+    },
+    {
+        "name": "Aghahowa Daniel",
+        "image": "https://firebasestorage.googleapis.com/v0/b/devfestlagos-2022.appspot.com/o/useman.jpeg?alt=media&token=6bb2c67c-bb07-46d1-b8c8-fc8dd9ff5d69",
+        "tagline": "Designer, DevFest",
+        "portfolio": "https://userman.webflow.io/",
+        "linkedIn": "https://linkedin.com/in/aghahowadaniel3600",
+        "email": "aghahowadaniel3600@gmail.com",
+        "category": "Design"
+    },
+    {
+        "name": "Okonkwo Nmesoma",
+        "image": "https://firebasestorage.googleapis.com/v0/b/devfestlagos-2022.appspot.com/o/Nme.jpeg?alt=media&token=63275e22-16d1-42e0-b7b1-4d2e4119b4ec",
+        "tagline": "Designer, DevFest Web",
+        "portfolio": "https://www.notion.so/Okonkwo-Nmesoma-5876576179ac47869b7782b0cd62e0d7",
+        "linkedIn": "https://www.linkedin.com/in/nmesoma-okonkwo-448708209",
+        "email": "okonkwonmesoma549@gmail.com",
+        "category": "Design"
+    }
+]

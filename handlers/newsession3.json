@@ -1,0 +1,56 @@
+[
+    {
+        "Duration(minutes)": "",
+        "Time": "ROOM 1",
+        "Schedule": "Becoming a Quality-Minded Developer.",
+        "Speaker/Facilitator": "Temitope Omolere",
+        "Role/Company": "Head of Quality Assurance, Interswitch",
+        "Slides": "https://docs.google.com/presentation/d/1wq5sAlLV-Ajnfy2S_gJlT95D2H8E404HUB8zhotA6yo/edit",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 2",
+        "Schedule": "Developer Experience - A Catalyst for Success",
+        "Speaker/Facilitator": "Shedrack Akintayo",
+        "Role/Company": "Developer Relations Manager, Wilco",
+        "Slides": "https://docs.google.com/presentation/d/1qx1CqFydGEUCodkIiWQ3uVOw5TILwPDDXx3K1RAYaeM/edit#slide=id.g125514d5365_0_10",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 3",
+        "Schedule": "Supercharged with Firebase",
+        "Speaker/Facilitator": "Chuka Ofilli",
+        "Role/Company": "Engineering Lead, Meta",
+        "Slides": "https://docs.google.com/presentation/d/1uqO66HARf_v4w22zTAZDdV_rAFmFTkYFyK1bm-RMTMM/edit#slide=id.g557c4815eb_0_75",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 4",
+        "Schedule": "Technical Writing: The good, the bad, the ugly",
+        "Speaker/Facilitator": "Cynthia Peter",
+        "Role/Company": "Developer Advocate, atSign",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 5",
+        "Schedule": "Programmable Everything",
+        "Speaker/Facilitator": "Lukman Bello",
+        "Role/Company": "Technical Product Specialist ,Paystack",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 6",
+        "Schedule": "Supercharging Navigator 1.0 In Your Mobile App - Flutter",
+        "Speaker/Facilitator": "Samuel Abada",
+        "Role/Company": "Senior Mobile Engineer, Shuttlers",
+        "Slides": "",
+        "Bio": ""
+      }
+]

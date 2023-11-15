@@ -1,0 +1,56 @@
+[
+    {
+        "Duration(minutes)": "",
+        "Time": "ROOM 1",
+        "Schedule": "Leveraging USDC to efficiently build decentralised Applications in Web3",
+        "Speaker/Facilitator": "Idris, Olubisi",
+        "Role/Company": "Developer Relations Engineer, Mara",
+        "Slides": "https://docs.google.com/presentation/d/1n5Zi8NrwhkWU2g64qqrHt8mDKkiwGra1Szng1804Rkk/edit?usp=sharing",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 2",
+        "Schedule": "The Future of Writing Tests for Jetpack Compose in Android",
+        "Speaker/Facilitator": "Hannah Olukoye",
+        "Role/Company": "Associate Engineering Manager, Taxfix",
+        "Slides": "https://docs.google.com/presentation/d/1SE36kmFO3tSM780g71CDIrzvMFVp4EK0tFkP4ISKuAQ/edit#slide=id.g177fd8d1813_0_88",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 3",
+        "Schedule": "Securing your software supply chain",
+        "Speaker/Facilitator": "Abubakar Siddiq Ango",
+        "Role/Company": "Developer Evangelism Program Manager, Gitlab",
+        "Slides": "https://docs.google.com/presentation/d/1cCRLsNOLVcgaYTjJ_CJzBeQ_U_ofjDAF8X2zi3P_apE/edit#slide=id.g125514d5365_0_169",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 4",
+        "Schedule": "The Developer to Developer Relations Arc: How developers can find their voices in the workplace",
+        "Speaker/Facilitator": "Jefferson Ighalo",
+        "Role/Company": "Senior Developer Relations Engineer, Wyre",
+        "Slides": "https://docs.google.com/presentation/d/14CVv1xF0VteDRr-qRa_8rrSMbe7FugsQAHcDLFbiVJQ/edit#slide=id.g125514d5365_0_10",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 5",
+        "Schedule": "Considerations for Deploying ML Models on Edge Devices",
+        "Speaker/Facilitator": "Robert John",
+        "Role/Company": "Data Science, Versus",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 6",
+        "Schedule": "Secured!! More than just coding.",
+        "Speaker/Facilitator": "Oluwaseyi Ajadi",
+        "Role/Company": "Quality and Security Assurance Engineer, INITS Limited",
+        "Slides": "https://docs.google.com/presentation/d/1r1XdcAvUQK581eVOrYbMNLRxTpvbVHXO54gyb0uSe3M/edit#slide=id.g125514d5365_0_10",
+        "Bio": ""
+      }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "Duration(minutes)": "40m",
+        "Time": "3:10 pm - 3:50 pm",
+        "Schedule": "Session 3",
+        "Speaker/Facilitator": "",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 1",
+        "Schedule": "Becoming a Quality-Minded Developer.",
+        "Speaker/Facilitator": "Temitope Adeleke",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 2",
+        "Schedule": "Raffle & Benefits of Pillow",
+        "Speaker/Facilitator": "Feranmi",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 3",
+        "Schedule": "Architecture and Infrastructure",
+        "Speaker/Facilitator": "Paystack",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 4",
+        "Schedule": "Technical Writing: The good, the bad, the ugly",
+        "Speaker/Facilitator": "Cynthia Peter",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 5",
+        "Schedule": "Developer Experience - A Catalyst for Success",
+        "Speaker/Facilitator": "Shedrack Akintayo",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 6",
+        "Schedule": "Supercharging Navigator 1.0 In Your Mobile App - Flutter",
+        "Speaker/Facilitator": "Samuel Abada",
+        "Slides": "",
+        "Bio": ""
+      }
+]

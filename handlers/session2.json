@@ -1,0 +1,58 @@
+[
+    {
+        "Duration(minutes)": "40m",
+        "Time": "2:25 pm - 3:05 pm",
+        "Schedule": "Session 2",
+        "Speaker/Facilitator": "",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 1",
+        "Schedule": "UX and Product Localization",
+        "Speaker/Facilitator": "Chris Adolphus",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 2",
+        "Schedule": "The Developer to Developer Relations Arc: How developers can find their voices in the workplace",
+        "Speaker/Facilitator": "Jefferson Ighalo",
+        "Slides": "https://docs.google.com/presentation/d/14CVv1xF0VteDRr-qRa_8rrSMbe7FugsQAHcDLFbiVJQ/edit#slide=id.g125514d5365_0_10",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 3",
+        "Schedule": "Leveraging USDC to efficiently build decentralised Applications in Web3",
+        "Speaker/Facilitator": "Idris, Olubisi",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 4",
+        "Schedule": "Considerations for Deploying ML Models on Edge Devices",
+        "Speaker/Facilitator": "Robert John",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 5",
+        "Schedule": "Secured!! More than just coding.",
+        "Speaker/Facilitator": "Oluwaseyi Ajadi",
+        "Slides": "https://docs.google.com/presentation/d/1r1XdcAvUQK581eVOrYbMNLRxTpvbVHXO54gyb0uSe3M/edit#slide=id.g125514d5365_0_10",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 6",
+        "Schedule": "Building for Large Screens in Android - A journey!",
+        "Speaker/Facilitator": "Hannah Olukoye",
+        "Slides": "",
+        "Bio": ""
+      }
+]

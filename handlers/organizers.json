@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Femi Taiwo",
+        "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/featured_attendees/me-shot--2.jpg",
+        "twitter": "https://twitter.com/dftaiwo",
+        "company": "INITS LImited",
+        "title": "GDG Lagos"
+    },
+    {
+        "name": "Gbolahan Alli",
+        "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/avatars/gbolahan_alli_HQ1aNNA.jpg",
+        "twitter": "https://twitter.com/alligbolahan",
+        "company": "Mara",
+        "title": "GDG Lagos"
+    },
+    {
+        "name": "Jesudetan Onasanya",
+        "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/avatars/jesudetan_onasanya_9U5XcrI.jpg",
+        "twitter": "https://twitter.com/jaydeecassidy",
+        "company": "GDG Lagos",
+        "title": "Creative"
+    },
+    {
+        "name": "Kelvin Umechukwu",
+        "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/featured_attendees/5CE8D757-8CA7-4143-B04A-F872BD09830C.jpeg",
+        "twitter": "https://twitter.com/tushgeek",
+        "company": "Bumpa",
+        "title": "Partnerships"
+    },
+    {
+        "name": "Maryann Onuoha",
+        "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/avatars/maryann_onuoha_i7Soobi.jpeg",
+        "twitter": "https://twitter.com/maryanneonuoha",
+        "company": "Mara",
+        "title": "WTM Lagos"
+    },
+    {
+        "name": "Karen Chukwu",
+        "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-goog/avatars/karen_chukwu_SWV5Li1.JPG",
+        "twitter": "",
+        "company": "Katwig & Dale",
+        "title": "Programs"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "Duration(minutes)": "40m",
+        "Time": "3:55 pm - 4:35 pm",
+        "Schedule": "Session 4",
+        "Speaker/Facilitator": "",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 1",
+        "Schedule": "Building solutions to breach payment gaps",
+        "Speaker/Facilitator": "Tobi Fatunde",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 2",
+        "Schedule": "Deploy and scale your containerized app on Google Cloud.",
+        "Speaker/Facilitator": "James Mwai",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 3",
+        "Schedule": "Securing your software supply chain",
+        "Speaker/Facilitator": "Abubakar Siddiq Ango",
+        "Slides": "https://docs.google.com/presentation/d/1cCRLsNOLVcgaYTjJ_CJzBeQ_U_ofjDAF8X2zi3P_apE/edit#slide=id.g125514d5365_0_169",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 4",
+        "Schedule": "Supercharged with Firebase",
+        "Speaker/Facilitator": "Chuka Ofilli",
+        "Slides": "https://docs.google.com/presentation/d/1uqO66HARf_v4w22zTAZDdV_rAFmFTkYFyK1bm-RMTMM/edit#slide=id.g557c4815eb_0_75",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 5",
+        "Schedule": "A Guide to Product Experimentation",
+        "Speaker/Facilitator": "Taslim Okunola",
+        "Slides": "",
+        "Bio": ""
+      },
+      {
+        "Duration(minutes)": "",
+        "Time": "ROOM 6",
+        "Schedule": "Neuromarketing and Community Management: The Science of Consumers/Users Decisions",
+        "Speaker/Facilitator": "Hussein Sanni",
+        "Slides": "",
+        "Bio": ""
+      }
+]
